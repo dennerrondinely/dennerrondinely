@@ -10,7 +10,7 @@ I'm Dênner Rondinely, a passionate Software Developer, javascript, CSS and HTML
 - 🛠️ **Skills**:  
   - Programming Languages: Javascript  
   - Frameworks & Tools: React, Node.js, Typescript 
-  - Other: Git, Docker, atlassian Tools 
+  - Other: Git, Docker, Atlassian Tools 
 - ✨ **Hobbies**:  Gaming, Nature, travel, Photograph
 
 ---
@@ -38,7 +38,6 @@ Check out my repositories for more exciting projects!
 ---
 
 ## 🎯 Fun Facts  
-- 🎮 I enjoy [your hobbies, e.g., strategy games, mountain biking, cooking].  
 - 🌟 Always excited to collaborate and contribute to open-source projects.  
 
 ---
