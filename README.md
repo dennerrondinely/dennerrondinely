@@ -18,6 +18,7 @@ I'm Dênner Rondinely, a passionate Software Developer, javascript, CSS and HTML
 ## 💻 My Projects  
 Here are some highlights of my work:  
 - 🔗 [React Boilerplate](https://github.com/dennerrondinely/react-boilerplate)  
+- 🔗 [Pokedex](https://github.com/dennerrondinely/pokedex)
 - 🔗 [Order Divsion](https://github.com/dennerrondinely/order-division)
 
 Check out my repositories for more exciting projects!  
