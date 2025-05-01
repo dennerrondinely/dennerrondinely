@@ -1,4 +1,4 @@
-# Hi, I'm Denner Rondinely 👋
+ner# Hi, I'm Denner Rondinely 👋
 
 🎯 **Front-end Developer** passionate about building clean, modern web interfaces.
 
@@ -20,8 +20,8 @@
 
 <div align="center">
 
-![Denner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennercodes&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennercodes&layout=compact&theme=radical&hide_border=true)
+![Denner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennerrondinely&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennerrondinely&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
