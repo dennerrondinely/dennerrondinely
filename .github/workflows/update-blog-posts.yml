@@ -1,0 +1,32 @@
+name: 📝 Update blog posts in README
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # todo dia às 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🔁 Checkout repo
+        uses: actions/checkout@v3
+
+      - name: 🧰 Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: 📦 Install dependencies
+        run: npm install node-fetch
+
+      - name: 🛠 Run script
+        run: node scripts/update-blog-posts.ts
+
+      - name: 🚀 Commit changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "chore: update blog posts section" || echo "No changes"
+          git push

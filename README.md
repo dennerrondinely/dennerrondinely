@@ -63,8 +63,11 @@ Feel free to explore these projects on my GitHub!
 ---
 
 ### 📬 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POSTS:START -->
+- [Building and Publishing the Lemonade VS Code Theme](/en/blog/lemonade-theme)
+- [Developing Tail-Aid: A VS Code Extension for Tailwind CSS Developers](/en/blog/tail-aid-vscode-extension)
+- [Impossible Components](/en/blog/impossible-components)
+<!-- BLOG-POSTS:END -->
 
 ---
 
