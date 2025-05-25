@@ -1,0 +1,19 @@
+name: 📊 Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # roda todo dia às 6h UTC
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_achievements: yes

@@ -1,0 +1,19 @@
+name: 📝 Update Blog Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # roda todo dia à meia-noite (UTC)
+  workflow_dispatch:      # permite rodar manualmente pelo GitHub
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    name: Update latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.dennerrondinely.dev/en/rss.xml"
