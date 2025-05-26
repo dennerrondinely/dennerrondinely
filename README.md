@@ -44,9 +44,9 @@
 
 I'm Denner Rondinely, a passionate Front-end developer currently focusing on three main projects:
 
-- [Tailor](https://github.com/dennerrondinely/tailor) — A flexible UI component library with a focus on usability and theming.
-- [Lemonade](https://github.com/dennerrondinely/lemonade) — A lightweight, customizable React state management tool.
-- [Tail Aid](https://github.com/dennerrondinely/tail-aid) — A VS Code extension to enhance Tailwind CSS developer experience.
+- [Tailor](https://github.com/dennerrondinely/tailor) — 🧵 Tailor is a utility-first component styling library that bridges Tailwind CSS and styled-components, enabling scalable and themeable UI development in React.
+- [Lemonade](https://github.com/dennerrondinely/lemonade) — 🎨 A modern, vibrant dark theme for VS Code inspired by Atom Material — designed for readability, contrast, and elegance.
+- [Tail Aid](https://github.com/dennerrondinely/tail-aid) — 💡 VS Code extension to highlight Tailwind CSS classes by category, with tooltips and custom configurations — boost readability and productivity.
 
 Feel free to explore these projects on my GitHub!
 
@@ -56,9 +56,9 @@ Feel free to explore these projects on my GitHub!
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Tailor | UI component library focused on customization and accessibility. | [GitHub](https://github.com/dennerrondinely/tailor) |
-| Lemonade | React state management tool designed for simplicity and performance. | [GitHub](https://github.com/dennerrondinely/lemonade) |
-| Tail Aid | VS Code extension to highlight and assist with Tailwind CSS class names. | [GitHub](https://github.com/dennerrondinely/tail-aid) |
+| Tailor | A utility-first component styling library that bridges Tailwind CSS and styled-components, enabling scalable and themeable UI development in React. | [GitHub](https://github.com/dennerrondinely/tailor) |
+| Lemonade | A modern, vibrant dark theme for VS Code inspired by Atom Material — designed for readability, contrast, and elegance. | [GitHub](https://github.com/dennerrondinely/lemonade) |
+| Tail Aid | VS Code extension to highlight Tailwind CSS classes by category, with tooltips and custom configurations — boost readability and productivity. | [GitHub](https://github.com/dennerrondinely/tail-aid) |
 
 ---
 
